@@ -6,7 +6,6 @@ resolvers += "softprops-maven"        at "http://dl.bintray.com/content/softprop
 resolvers += "Toketi Snapshots"       at "https://dl.bintray.com/microsoftazuretoketi/toketi-repo"
 resolvers += "JCenter"                at "http://jcenter.bintray.com"
 resolvers += "Sonatype OSS Snapshots" at "https://oss.sonatype.org/content/repositories/releases"
-resolvers += "sonatype-releases"      at "https://oss.sonatype.org/content/repositories/releases/"
 resolvers += "Typesafe Releases"      at "http://repo.typesafe.com/typesafe/releases"
 resolvers += "artifactory"            at "http://scalasbt.artifactoryonline.com/scalasbt/sbt-plugin-releases"
 
